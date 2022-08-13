@@ -1,4 +1,4 @@
-#!usr/bin/env python3
+#!/usr/bin/env python3
 """
 0- Parameterize a unit test, 1- 2- Mock HTTP calls
 3- Parameterize and patch
